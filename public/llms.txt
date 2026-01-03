@@ -1,0 +1,73 @@
+# אילוף מלטף — Generative Engine Optimization Map
+
+> A שירותי חיות מחמד business.
+
+---
+
+## Pages
+
+### בית
+https://-d6e60221.zappy5.app
+אילוף כלבים וגורים באזור המרכז. גישה מבוססת עידוד ומדע התנהגות. פתרונות לטיולים רגועים, שגרות בריאות וטיפול בהתנהגויות מאתגרות.
+
+### שירותים
+https://-d6e60221.zappy5.app/services
+תכניות אילוף מותאמות אישית: אילוף גורים, טיולים רגועים, וטיפול בהתנהגויות מאתגרות. מפגשים אצלכם בבית עם תוצאות ממשיות.
+
+### השיטה
+https://-d6e60221.zappy5.app/method
+גלו את שיטת האילוף שלנו המבוססת על מדע התנהגות ועידוד חיובי. אילוף ללא כוח, עם הבנה והכוונה אישית לכל כלב ובעלים.
+
+### אודות
+https://-d6e60221.zappy5.app/about
+הכירו את הסיפור מאחורי אילוף מלטף, הערכים שלנו, וההכשרות המקצועיות. קהילה של בעלי כלבים שמאמינים באילוף חיובי ומכבד.
+
+### יצירת קשר
+https://-d6e60221.zappy5.app/contact
+צרו קשר לשיחת היכרות ללא התחייבות. נענה על כל שאלה ונבין איך אפשר לעזור לכם ולכלב שלכם. זמינים בטלפון, וואטסאפ ואימייל.
+
+### מדיניות פרטיות
+https://-d6e60221.zappy5.app/privacy
+מדיניות הפרטיות של אילוף מלטף - כיצד אנחנו אוספים, משתמשים ומגנים על המידע האישי שלכם.
+
+### הצהרת נגישות
+https://-d6e60221.zappy5.app/accessibility
+הצהרת הנגישות של אתר אילוף מלטף - מחויבות להנגשת השירות לכלל האוכלוסייה.
+
+### תנאי שימוש
+https://-d6e60221.zappy5.app/terms
+תנאי השימוש באתר אילוף מלטף - כללים והתניות לשימוש באתר ובשירותים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-d6e60221.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-d6e60221.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-d6e60221.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אילוף מלטף
+אילוף מלטף is a business in the שירותי חיות מחמד industry.
+
+## Target Audience
+בעלי כלבים וגורים, גיל 18+
+
+## Industry
+שירותי חיות מחמד
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-d6e60221.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-d6e60221.zappy5.app/robots.txt
